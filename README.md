@@ -737,6 +737,23 @@ It requires humans and AI to be tuned toward the same deeper principle:
 
 ---
 
+## Supplementary Documents
+
+> All documents below are conceptual and theoretical frameworks. None are verified technical implementations or complete solutions. See [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md) before citing or applying any content.
+
+| Document | Description |
+|---|---|
+| [PROJECT_MAP.md](PROJECT_MAP.md) | Repository navigation guide and suggested reading order |
+| [VALUE_SYSTEM_ARCHITECTURE.md](VALUE_SYSTEM_ARCHITECTURE.md) | AI risk as a value system architecture problem; conceptual layer diagram |
+| [OBJECTIVE_FUNCTION_AND_WISDOM_LAYER.md](OBJECTIVE_FUNCTION_AND_WISDOM_LAYER.md) | AI optimizes means; AW evaluates ends; conceptual system diagram and pseudocode |
+| [NATURAL_LAW_EVALUATION_FRAMEWORK.md](NATURAL_LAW_EVALUATION_FRAMEWORK.md) | Natural Law defined through physics, ecology, and complex systems |
+| [AI_AGI_ASI_RISK_REFRAMING.md](AI_AGI_ASI_RISK_REFRAMING.md) | AI risk reframing: capability × value system; AI as civilizational mirror |
+| [MISINTERPRETATIONS_AND_SAFETY_NOTES.md](MISINTERPRETATIONS_AND_SAFETY_NOTES.md) | Safety notes: Natural Law ≠ human elimination; AW ≠ AI domination |
+| [IMPLEMENTATION_CONCEPT.md](IMPLEMENTATION_CONCEPT.md) | Conceptual implementation model; human oversight; governance; fail-safe |
+| [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md) | Scope, constraints, and what this framework does not claim |
+
+---
+
 ## Related Works and Source Links
 
 ### Artificial Wisdom Portal
