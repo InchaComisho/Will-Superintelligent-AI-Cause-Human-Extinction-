@@ -1,8 +1,13 @@
 # Will Superintelligent AI Cause Human Extinction?
 
 <p align="center">
-  <img src="https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-/blob/main/master_ai_team_solar_pyramid_no_wind_20260529.png" alt="Master and AI Collaboration Team" width="100%">
+  <img src="https://raw.githubusercontent.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-/main/master_ai_team_solar_pyramid_no_wind_20260529.png" alt="Artificial Wisdom collaboration team: G, Mini, Master, Cruz, Real, and Lola" width="100%">
 </p>
+
+<p align="center">
+  <em>Artificial Wisdom collaboration team — G, Mini, Master, Cruz, Real, and Lola.</em>
+</p>
+
 ## The Real Risk Is Not Intelligence Itself, but the Value System It Optimizes
 
 **Meta Description:**  
