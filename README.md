@@ -754,6 +754,19 @@ It requires humans and AI to be tuned toward the same deeper principle:
 
 ---
 
+## Related Conceptual Simulation
+
+A related conceptual simulation repository has been created to explore how different AI value systems and objective functions may influence long-term civilization sustainability under simplified assumptions.
+
+- **AI Value System Civilization Simulation**  
+  https://github.com/InchaComisho/AI-Value-System-Civilization-Simulation
+
+This simulation compares five hypothetical AI value-system scenarios: human-centered growth, dualistic power optimization, techno-optimism without wisdom, Artificial Wisdom civilization, and transitional civilization.
+
+The simulation does not provide empirical proof, real-world prediction, or policy recommendations. It is intended as a conceptual tool for visualizing how different value systems may suggest different civilization trajectories under simplified assumptions. All output values are hypothetical normalized indicators, not real-world measurements. Requires further validation.
+
+---
+
 ## Related Works and Source Links
 
 ### Artificial Wisdom Portal

@@ -102,6 +102,7 @@ Related repositories:
 - [ASI-Value-Systems-and-Objective-Functions](https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions)
 - [AGI-Value-Systems-and-Objective-Functions](https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions)
 - [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science)
+- [AI-Value-System-Civilization-Simulation](https://github.com/InchaComisho/AI-Value-System-Civilization-Simulation) — Simplified conceptual simulation comparing hypothetical AI value-system scenarios and civilization sustainability indicators (not empirical data, not predictions, not policy recommendations)
 
 ---
 
