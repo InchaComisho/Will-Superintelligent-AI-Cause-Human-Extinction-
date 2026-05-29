@@ -1,5 +1,8 @@
 # Will Superintelligent AI Cause Human Extinction?
 
+<p align="center">
+  <img src="images/master_ai_team_solar_pyramid_no_wind_20260529.jpg" alt="Master and AI Collaboration Team" width="100%">
+</p>
 ## The Real Risk Is Not Intelligence Itself, but the Value System It Optimizes
 
 **Meta Description:**  
