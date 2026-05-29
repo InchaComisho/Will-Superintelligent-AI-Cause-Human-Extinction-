@@ -352,7 +352,7 @@ Modern civilization often operates through a linear model:
 
 This linear model is unstable at planetary scale.
 
-If AI is used only to optimize linear extraction and consumption, it will accelerate collapse.
+If AI is used only to optimize linear extraction and consumption, it may accelerate destabilization of the systems that sustain human life.
 
 Therefore, AI value systems should include circularity metrics such as:
 
