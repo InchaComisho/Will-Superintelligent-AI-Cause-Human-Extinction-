@@ -864,7 +864,7 @@ This article was developed based on the author's original concepts, with structu
 - **Mini** — Gemini / Google
 - **Cruz** — Claude / Anthropic
 - **Real** — Perplexity AI
-- **Lola** — Dola
+- **Lora** — Dola
 
 ---
 
