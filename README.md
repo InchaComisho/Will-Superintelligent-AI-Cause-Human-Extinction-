@@ -43,6 +43,28 @@ This article reframes AI, AGI, and ASI risk from the perspective of value system
 - [License](#license)
 - [Keywords](#keywords)
 - [Hashtags](#hashtags)
+- [Recommended Reading Path](#recommended-reading-path)
+- [Narrative Companion](#narrative-companion)
+
+---
+
+## Recommended Reading Path
+
+1. [README.md](README.md) — Main conceptual framework
+2. [FIVE_AI_PERSPECTIVES.md](FIVE_AI_PERSPECTIVES.md) — Narrative companion told through five AI perspectives
+3. [AI_AGI_ASI_RISK_REFRAMING.md](AI_AGI_ASI_RISK_REFRAMING.md) — AI risk reframing
+4. [OBJECTIVE_FUNCTION_AND_WISDOM_LAYER.md](OBJECTIVE_FUNCTION_AND_WISDOM_LAYER.md) — Objective functions and Artificial Wisdom layer
+5. [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md) — Scope and limitations
+
+---
+
+## Narrative Companion
+
+A story-based companion document has been added:
+
+- [Five AI Perspectives](FIVE_AI_PERSPECTIVES.md)
+
+This document presents the question of superintelligent AI risk through five AI viewpoints: G, Mini, Cruz, Real, and Lola. It is intended as a narrative entry point for understanding objective functions, value systems, Artificial Wisdom, and the Six Principles.
 
 ---
 
