@@ -34,7 +34,7 @@ This repository presents a conceptual framework for reframing AI, AGI, and ASI r
 | File | Description |
 |---|---|
 | [README.md](README.md) | Main article: full framework overview, the Six Principles, Artificial Wisdom concept, AI risk reframing, and conclusion. Start here. |
-
+| [FIVE_AI_PERSPECTIVES.md](FIVE_AI_PERSPECTIVES.md) | Narrative companion: presents the question of superintelligent AI risk through five AI perspectives — G, Mini, Cruz, Real, and Lola. A story-based entry point for understanding Artificial Wisdom, objective functions, value systems, and the Six Principles. |
 ---
 
 ### Framework Documents
@@ -140,6 +140,7 @@ Human oversight and democratic governance remain non-negotiable
 |---|---|
 | README.md | Conceptual article |
 | VALUE_SYSTEM_ARCHITECTURE.md | Theoretical framework |
+| FIVE_AI_PERSPECTIVES.md | Narrative companion |
 | OBJECTIVE_FUNCTION_AND_WISDOM_LAYER.md | Conceptual model (non-implemented) |
 | NATURAL_LAW_EVALUATION_FRAMEWORK.md | Theoretical proposal |
 | AI_AGI_ASI_RISK_REFRAMING.md | Analytical reframing |
