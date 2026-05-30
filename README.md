@@ -751,6 +751,7 @@ It requires humans and AI to be tuned toward the same deeper principle:
 | [MISINTERPRETATIONS_AND_SAFETY_NOTES.md](MISINTERPRETATIONS_AND_SAFETY_NOTES.md) | Safety notes: Natural Law ≠ human elimination; AW ≠ AI domination |
 | [IMPLEMENTATION_CONCEPT.md](IMPLEMENTATION_CONCEPT.md) | Conceptual implementation model; human oversight; governance; fail-safe |
 | [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md) | Scope, constraints, and what this framework does not claim |
+| [FIVE_AI_PERSPECTIVES.md](FIVE_AI_PERSPECTIVES.md) | Narrative companion told through five AI perspectives: G, Mini, Cruz, Real, and Lola |
 
 ---
 
