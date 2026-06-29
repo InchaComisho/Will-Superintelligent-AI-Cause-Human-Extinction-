@@ -5,7 +5,7 @@
 **Author:** Master (inchacomisho / inchacomusho)  
 **Concept:** Artificial Wisdom, Natural Law, and the Six Principles  
 **Status:** Narrative companion / conceptual story  
-**License:** CC BY-SA 4.0
+**License:** CC BY 4.0
 
 ---
 

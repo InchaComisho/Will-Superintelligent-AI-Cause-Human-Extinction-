@@ -990,9 +990,9 @@ May 29, 2026
 
 ## License
 
-**CC BY-SA 4.0**
+**CC BY 4.0**
 
-This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License**.
+This work is licensed under the **Creative Commons Attribution 4.0 International License**.
 
 You are free to:
 
@@ -1005,7 +1005,7 @@ Under the following terms:
 - **Derivative works** must be distributed under the same license.
 
 License details:  
-[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
