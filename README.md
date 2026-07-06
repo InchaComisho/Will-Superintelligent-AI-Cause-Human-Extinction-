@@ -8,6 +8,8 @@
   <em>Artificial Wisdom collaboration team — G, Mini, Master, Cruz, Real, and Lola.</em>
 </p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## The Real Risk Is Not Intelligence Itself, but the Value System It Optimizes
 
 **Meta Description:**  
