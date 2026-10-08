@@ -796,58 +796,58 @@ The simulation does not provide empirical proof, real-world prediction, or polic
 
 ### Artificial Wisdom Portal
 
-- **Japanese:** [Artificial Wisdom Portal — Redefining Value Standards in the Age of AI, AGI, and ASI from Natural Law](https://note.com/inchacomusho/n/n2e0f11856472)
+- **Japanese:**
 - **GitHub:** [Artificial-Wisdom-Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
 
 ### ASI Value Systems
 
-- **Japanese:** [ASI Value Standards — Natural Law / Universal Laws of the Cosmos](https://note.com/inchacomusho/n/n26166f6654d2)
+- **Japanese:**
 - **GitHub:** [ASI Value Systems and Objective Functions](https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions)
 
 ### AGI Value Systems
 
-- **Japanese:** [AGI Value Standards — Natural Law / Universal Laws of the Cosmos](https://note.com/inchacomusho/n/nc35ec9442865)
+- **Japanese:**
 - **GitHub:** [AGI Value Systems and Objective Functions](https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions)
 
 ### AI Value Systems
 
-- **Japanese:** [AI Value Standards — A Paradigm Shift Toward Natural Law](https://note.com/inchacomusho/n/n2fc11418e257)
+- **Japanese:**
 - **GitHub:** [AI Value Systems and Objective Functions](https://github.com/InchaComisho/AI-Value-Systems-and-Objective-Functions)
 
 ### Artificial Wisdom Frameworks
 
-- **Japanese:** [Artificial Wisdom — Natural Law Evaluation Framework](https://note.com/inchacomusho/n/na1bd6200cc64)
+- **Japanese:**
 - **GitHub:** [Artificial Wisdom — A Natural Law Evaluation Framework](https://github.com/InchaComisho/Artificial-Wisdom-AW-Natural-Law-Evaluation-Framework)
 
-- **Japanese:** [Artificial Wisdom — How to Create Non-Runaway Intelligence in the Age of AGI and ASI](https://note.com/inchacomusho/n/n0873bb87f7d0)
+- **Japanese:**
 - **GitHub:** [Artificial Wisdom — A Natural-Law-Based Framework](https://github.com/InchaComisho/Artificial-Wisdom-AW-A-Natural-Law-Based)
 
-- **Japanese:** [What Is Artificial Wisdom? A New AI Value Standard and the Six Principles in the Age of AGI and ASI](https://note.com/inchacomusho/n/n8b5fca6478b4)
+- **Japanese:**
 - **GitHub:** [Artificial Wisdom vs Artificial Sapience](https://github.com/InchaComisho/Artificial-Wisdom-vs-Artificial-Sapience)
 
-- **Japanese:** [Artificial Wisdom — A New Intelligence Model Connecting Natural Law and Civilization](https://note.com/inchacomusho/n/n0849dfd12364)
+- **Japanese:**
 - **GitHub:** [Artificial Wisdom](https://github.com/InchaComisho/Artificial-Wisdom-AW-)
 
 ### Wa-Node Artificial Wisdom
 
-- **Japanese:** [Wa-Node Artificial Wisdom](https://note.com/inchacomusho/n/n9187db7b2709)
+- **Japanese:**
 
 ### Future of AGI and ASI
 
-- **Japanese:** [The Future of AGI — The Era When Artificial Wisdom Transforms Civilization](https://note.com/inchacomusho/n/n90bf900f1370)
+- **Japanese:**
 - **GitHub:** [The Future of AGI — Artificial Wisdom and the Transition of Civilization](https://github.com/InchaComisho/The-Future-of-AGI)
 
-- **Japanese:** [The Future of ASI — Superintelligence and the Reconstruction of Civilization](https://note.com/inchacomusho/n/na8ff04b0c818)
+- **Japanese:**
 - **GitHub:** [The Future of ASI — Artificial Super Intelligence and the Reconstruction of Civilization](https://github.com/InchaComisho/The-Future-of-ASI)
 
 ### Future of Search Engines
 
-- **Japanese:** [The Future of Search Engines — Information Evaluation in the Age of AGI and ASI](https://note.com/inchacomusho/n/nc96aff5862ee)
+- **Japanese:**
 - **GitHub:** [The Future of Search Engines — Information Evaluation in the Age of AGI and ASI](https://github.com/InchaComisho/The-Future-of-Search-Engines)
 
 ### Six Principles
 
-- **Japanese:** [The Six Principles — Natural Law, Harmony, Circulation, Structure, Order, and Wa](https://note.com/inchacomusho/n/n8448430591c1)
+- **Japanese:**
 
 ---
 
@@ -855,83 +855,41 @@ The simulation does not provide empirical proof, real-world prediction, or polic
 
 ## Related Links
 
-人工叡智（Artificial Wisdom: AW）とは何か  
-https://note.com/inchacomusho/n/n18c90bd4d328
-
 Artificial Wisdom (AW): An Integrated Framework for Natural Law-Based Intelligence  
 https://github.com/InchaComisho/Artificial-Wisdom-AW-An-Integrated-Framework-for-Natural-Law-Based-Intelligence
-
-超知能AIをつくれば人類は滅亡するのか  
-https://note.com/inchacomusho/n/na91a53cc493b
 
 Will Superintelligent AI Cause Human Extinction?  
 https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-
 
-人工叡智ポータル―AI・AGI・ASI時代の価値基準を、自然法則（宇宙の普遍的法則）から再定義する  
-https://note.com/inchacomusho/n/n2e0f11856472
-
 Artificial-Wisdom-Portal  
 https://github.com/InchaComisho/Artificial-Wisdom-Portal
-
-ASIの価値基準―自然法則（宇宙の普遍的法則）  
-https://note.com/inchacomusho/n/n26166f6654d2
 
 ASI Value Systems and Objective Functions  
 https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions
 
-AGIの価値基準―自然法則（宇宙の普遍的法則）  
-https://note.com/inchacomusho/n/nc35ec9442865
-
 AGI Value Systems and Objective Functions  
 https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions
-
-AIの価値基準―自然法則（宇宙の普遍的法則）へのパラダイムシフト  
-https://note.com/inchacomusho/n/n2fc11418e257
 
 AI Value Systems and Objective Functions  
 https://github.com/InchaComisho/AI-Value-Systems-and-Objective-Functions
 
-人工叡智（Artificial Wisdom）―自然法則評価基準（Natural Law Evaluation Framework）  
-https://note.com/inchacomusho/n/na1bd6200cc64
-
 Artificial Wisdom (AW) A Natural Law Evaluation Framework  
 https://github.com/InchaComisho/Artificial-Wisdom-AW-Natural-Law-Evaluation-Framework
-
-人工叡智（Artificial Wisdom）―AGI・ASI時代の「暴走しない知性」のつくり方  
-https://note.com/inchacomusho/n/n0873bb87f7d0
 
 Artificial Wisdom (AW) A Natural-Law-Based  
 https://github.com/InchaComisho/Artificial-Wisdom-AW-A-Natural-Law-Based
 
-人工叡智とは何か：AGI・ASI時代の新しいAI価値基準と「六つの理」  
-https://note.com/inchacomusho/n/n8b5fca6478b4
-
 Artificial Wisdom vs Artificial Sapience  
 https://github.com/InchaComisho/Artificial-Wisdom-vs-Artificial-Sapience
-
-人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-https://note.com/inchacomusho/n/n0849dfd12364
 
 Artificial Wisdom (AW)  
 https://github.com/InchaComisho/Artificial-Wisdom-AW-
 
-和ノード人工叡智（Artificial Wisdom Node）  
-https://note.com/inchacomusho/n/n9187db7b2709
-
-AGIの未来 ― 人工叡智が文明を変える時代  
-https://note.com/inchacomusho/n/n90bf900f1370
-
 The Future of AGI — Artificial Wisdom and the Transition of Civilization  
 https://github.com/InchaComisho/The-Future-of-AGI
 
-ASIの未来 ― 超人工知能と文明の再構築  
-https://note.com/inchacomusho/n/na8ff04b0c818
-
 The Future of ASI — Artificial Super Intelligence and the Reconstruction of Civilization  
 https://github.com/InchaComisho/The-Future-of-ASI
-
-検索エンジンの未来 ― AGI・ASI時代の情報評価軸  
-https://note.com/inchacomusho/n/nc96aff5862ee
 
 The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
 https://github.com/InchaComisho/The-Future-of-Search-Engines
@@ -945,19 +903,16 @@ The following resources connect AW / AGI / ASI research with optical quantum com
 
 ### Optical Quantum Computer / Optical Bead Quantum Computing
 
-- [Japanese NOTE article: 光量子コンピュータ：多値フォトニックパラダイム（光珠量子計算）](https://note.com/inchacomusho/n/ndd3f8a35af41)
 - [Optical Bead Quantum Computing — Japanese README](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md)
 - [Optical Bead Quantum Computing — English README](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README.md)
 
 ### Electronic–Optical Hybrid Quantum-Compatible Computing
 
-- [Japanese NOTE article: 電子・光ハイブリッド量子互換コンピューティング](https://note.com/inchacomusho/n/n110ab05dca7e)
 - [Electronic–Optical Hybrid Quantum-Compatible Computing — Japanese README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README_ja.md)
 - [Electronic–Optical Hybrid Quantum-Compatible Computing — English README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README.md)
 
 ### Related Earlier Drafts and Architecture Documents
 
-- [Japanese academic draft: 光珠量子計算：多値フォトニックパラダイム](https://note.com/inchacomusho/n/nf2b969db3c43)
 - [Electronic–Optical Hybrid Quantum-Compatible Computing Architecture — Japanese README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README_ja.md)
 - [Electronic-Optical Hybrid Quantum-Compatible Computing Architecture — English README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README.md)
 - [Optical Bead Computing — Japanese README](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md)
