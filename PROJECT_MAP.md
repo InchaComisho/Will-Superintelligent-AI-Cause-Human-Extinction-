@@ -1,5 +1,7 @@
 # Project Map
 
+[日本語版はこちら / Japanese version](PROJECT_MAP_ja.md)
+
 ## Repository Structure and Navigation Guide
 
 **Repository:** Will Superintelligent AI Cause Human Extinction?  

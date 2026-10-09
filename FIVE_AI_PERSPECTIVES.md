@@ -1,5 +1,7 @@
 # Will Superintelligent AI Cause Human Extinction?
 
+[日本語版はこちら / Japanese version](FIVE_AI_PERSPECTIVES_ja.md)
+
 ## A Narrative Companion Told by Five AIs
 
 **Author:** Master (inchacomisho / inchacomusho)  

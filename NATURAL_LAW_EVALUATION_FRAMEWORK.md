@@ -1,5 +1,7 @@
 # Natural Law Evaluation Framework
 
+[日本語版はこちら / Japanese version](NATURAL_LAW_EVALUATION_FRAMEWORK_ja.md)
+
 ## Defining Natural Law Through Physics, Ecology, and Complex Systems
 
 **Repository:** Will Superintelligent AI Cause Human Extinction?  

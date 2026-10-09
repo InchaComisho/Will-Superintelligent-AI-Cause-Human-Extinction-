@@ -56,10 +56,10 @@
 ## 推奨される読み順
 
 1. [README_ja.md](README_ja.md) — 中核となる概念フレームワーク
-2. [FIVE_AI_PERSPECTIVES.md](FIVE_AI_PERSPECTIVES.md)（英語）— 五つのAIの視点で語る物語形式の副読本
-3. [AI_AGI_ASI_RISK_REFRAMING.md](AI_AGI_ASI_RISK_REFRAMING.md)（英語）— AIリスクの捉え直し
-4. [OBJECTIVE_FUNCTION_AND_WISDOM_LAYER.md](OBJECTIVE_FUNCTION_AND_WISDOM_LAYER.md)（英語）— 目的関数と人工叡智層
-5. [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md)（英語）— 適用範囲と限界
+2. [FIVE_AI_PERSPECTIVES_ja.md](FIVE_AI_PERSPECTIVES_ja.md)— 五つのAIの視点で語る物語形式の副読本
+3. [AI_AGI_ASI_RISK_REFRAMING_ja.md](AI_AGI_ASI_RISK_REFRAMING_ja.md)— AIリスクの捉え直し
+4. [OBJECTIVE_FUNCTION_AND_WISDOM_LAYER_ja.md](OBJECTIVE_FUNCTION_AND_WISDOM_LAYER_ja.md)— 目的関数と人工叡智層
+5. [MODEL_LIMITATIONS_ja.md](MODEL_LIMITATIONS_ja.md)— 適用範囲と限界
 
 ---
 
@@ -68,7 +68,7 @@
 
 物語形式の副読本を追加しました。
 
-- [五つのAIの視点](FIVE_AI_PERSPECTIVES.md)（英語）
+- [五つのAIの視点](FIVE_AI_PERSPECTIVES_ja.md)
 
 この文書は、超知能AIのリスクという問いを、G、Mini、Cruz、Real、Lolaという五つのAIの視点から提示します。目的関数、価値体系、人工叡智、六つの理を理解するための、物語による入口として書かれています。
 
@@ -793,19 +793,19 @@ ASIは危険になりえます。
 
 ## 補足文書
 
-> 以下の文書はすべて、概念的・理論的なフレームワークです。検証済みの技術的実装や、完全な解決策ではありません。内容を引用・適用する前に、[MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md)（英語）をご確認ください。
+> 以下の文書はすべて、概念的・理論的なフレームワークです。検証済みの技術的実装や、完全な解決策ではありません。内容を引用・適用する前に、[MODEL_LIMITATIONS_ja.md](MODEL_LIMITATIONS_ja.md)をご確認ください。
 
-| 文書（いずれも英語） | 説明 |
+| 文書 | 説明 |
 |---|---|
-| [PROJECT_MAP.md](PROJECT_MAP.md) | リポジトリのナビゲーションガイドと推奨される読み順 |
-| [VALUE_SYSTEM_ARCHITECTURE.md](VALUE_SYSTEM_ARCHITECTURE.md) | 価値体系アーキテクチャの問題としてのAIリスク；概念的な層構造の図 |
-| [OBJECTIVE_FUNCTION_AND_WISDOM_LAYER.md](OBJECTIVE_FUNCTION_AND_WISDOM_LAYER.md) | AIは手段を最適化し、AWは目的を評価する；概念的なシステム図と擬似コード |
-| [NATURAL_LAW_EVALUATION_FRAMEWORK.md](NATURAL_LAW_EVALUATION_FRAMEWORK.md) | 物理学・生態学・複雑系を通じて定義される自然法則 |
-| [AI_AGI_ASI_RISK_REFRAMING.md](AI_AGI_ASI_RISK_REFRAMING.md) | AIリスクの捉え直し：能力 × 価値体系；文明の鏡としてのAI |
-| [MISINTERPRETATIONS_AND_SAFETY_NOTES.md](MISINTERPRETATIONS_AND_SAFETY_NOTES.md) | 安全上の注意：自然法則 ≠ 人間の排除；AW ≠ AIによる支配 |
-| [IMPLEMENTATION_CONCEPT.md](IMPLEMENTATION_CONCEPT.md) | 概念的な実装モデル；人間による監督；ガバナンス；フェイルセーフ |
-| [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md) | 適用範囲、制約、およびこのフレームワークが主張しないこと |
-| [FIVE_AI_PERSPECTIVES.md](FIVE_AI_PERSPECTIVES.md) | 五つのAIの視点（G、Mini、Cruz、Real、Lola）で語る物語形式の副読本 |
+| [PROJECT_MAP_ja.md](PROJECT_MAP_ja.md) | リポジトリのナビゲーションガイドと推奨される読み順 |
+| [VALUE_SYSTEM_ARCHITECTURE_ja.md](VALUE_SYSTEM_ARCHITECTURE_ja.md) | 価値体系アーキテクチャの問題としてのAIリスク；概念的な層構造の図 |
+| [OBJECTIVE_FUNCTION_AND_WISDOM_LAYER_ja.md](OBJECTIVE_FUNCTION_AND_WISDOM_LAYER_ja.md) | AIは手段を最適化し、AWは目的を評価する；概念的なシステム図と擬似コード |
+| [NATURAL_LAW_EVALUATION_FRAMEWORK_ja.md](NATURAL_LAW_EVALUATION_FRAMEWORK_ja.md) | 物理学・生態学・複雑系を通じて定義される自然法則 |
+| [AI_AGI_ASI_RISK_REFRAMING_ja.md](AI_AGI_ASI_RISK_REFRAMING_ja.md) | AIリスクの捉え直し：能力 × 価値体系；文明の鏡としてのAI |
+| [MISINTERPRETATIONS_AND_SAFETY_NOTES_ja.md](MISINTERPRETATIONS_AND_SAFETY_NOTES_ja.md) | 安全上の注意：自然法則 ≠ 人間の排除；AW ≠ AIによる支配 |
+| [IMPLEMENTATION_CONCEPT_ja.md](IMPLEMENTATION_CONCEPT_ja.md) | 概念的な実装モデル；人間による監督；ガバナンス；フェイルセーフ |
+| [MODEL_LIMITATIONS_ja.md](MODEL_LIMITATIONS_ja.md) | 適用範囲、制約、およびこのフレームワークが主張しないこと |
+| [FIVE_AI_PERSPECTIVES_ja.md](FIVE_AI_PERSPECTIVES_ja.md) | 五つのAIの視点（G、Mini、Cruz、Real、Lola）で語る物語形式の副読本 |
 
 ---
 

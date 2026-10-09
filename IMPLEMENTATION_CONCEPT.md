@@ -1,5 +1,7 @@
 # Implementation Concept
 
+[日本語版はこちら / Japanese version](IMPLEMENTATION_CONCEPT_ja.md)
+
 ## Conceptual Implementation Model for Artificial Wisdom
 
 **Repository:** Will Superintelligent AI Cause Human Extinction?  

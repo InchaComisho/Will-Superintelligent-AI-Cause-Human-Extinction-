@@ -1,5 +1,7 @@
 # Objective Function and Wisdom Layer
 
+[日本語版はこちら / Japanese version](OBJECTIVE_FUNCTION_AND_WISDOM_LAYER_ja.md)
+
 ## From Goal Optimization to Goal Evaluation
 
 **Repository:** Will Superintelligent AI Cause Human Extinction?  

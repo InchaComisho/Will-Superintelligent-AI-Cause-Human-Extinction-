@@ -1,5 +1,7 @@
 # Value System Architecture
 
+[日本語版はこちら / Japanese version](VALUE_SYSTEM_ARCHITECTURE_ja.md)
+
 ## AI, AGI, and ASI Risk as a Value-System Problem
 
 **Repository:** Will Superintelligent AI Cause Human Extinction?  

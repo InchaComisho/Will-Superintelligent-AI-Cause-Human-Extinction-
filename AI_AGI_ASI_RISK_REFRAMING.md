@@ -1,5 +1,7 @@
 # AI, AGI, and ASI Risk: A Proposed Reframing
 
+[日本語版はこちら / Japanese version](AI_AGI_ASI_RISK_REFRAMING_ja.md)
+
 ## Acknowledging Risk While Deepening Its Analysis
 
 **Repository:** Will Superintelligent AI Cause Human Extinction?  

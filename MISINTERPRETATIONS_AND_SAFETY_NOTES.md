@@ -1,5 +1,7 @@
 # Misinterpretations and Safety Notes
 
+[日本語版はこちら / Japanese version](MISINTERPRETATIONS_AND_SAFETY_NOTES_ja.md)
+
 ## Clarifying This Framework's Boundaries and Values
 
 **Repository:** Will Superintelligent AI Cause Human Extinction?  

@@ -1,5 +1,7 @@
 # Model Limitations
 
+[日本語版はこちら / Japanese version](MODEL_LIMITATIONS_ja.md)
+
 ## Scope, Constraints, and Intellectual Honesty
 
 **Repository:** Will Superintelligent AI Cause Human Extinction?  
