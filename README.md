@@ -1,5 +1,7 @@
 # Will Superintelligent AI Cause Human Extinction?
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-/main/master_ai_team_solar_pyramid_no_wind_20260529.png" alt="Artificial Wisdom collaboration team: G, Mini, Master, Cruz, Real, and Lola" width="100%">
 </p>
