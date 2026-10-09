@@ -56,10 +56,10 @@
 ## 推奨される読み順
 
 1. [README_ja.md](README_ja.md) — 中核となる概念フレームワーク
-2. [FIVE_AI_PERSPECTIVES_ja.md](FIVE_AI_PERSPECTIVES_ja.md)— 五つのAIの視点で語る物語形式の副読本
-3. [AI_AGI_ASI_RISK_REFRAMING_ja.md](AI_AGI_ASI_RISK_REFRAMING_ja.md)— AIリスクの捉え直し
-4. [OBJECTIVE_FUNCTION_AND_WISDOM_LAYER_ja.md](OBJECTIVE_FUNCTION_AND_WISDOM_LAYER_ja.md)— 目的関数と人工叡智層
-5. [MODEL_LIMITATIONS_ja.md](MODEL_LIMITATIONS_ja.md)— 適用範囲と限界
+2. [FIVE_AI_PERSPECTIVES_ja.md](FIVE_AI_PERSPECTIVES_ja.md) — 五つのAIの視点で語る物語形式の副読本
+3. [AI_AGI_ASI_RISK_REFRAMING_ja.md](AI_AGI_ASI_RISK_REFRAMING_ja.md) — AIリスクの捉え直し
+4. [OBJECTIVE_FUNCTION_AND_WISDOM_LAYER_ja.md](OBJECTIVE_FUNCTION_AND_WISDOM_LAYER_ja.md) — 目的関数と人工叡智層
+5. [MODEL_LIMITATIONS_ja.md](MODEL_LIMITATIONS_ja.md) — 適用範囲と限界
 
 ---
 
